@@ -25,7 +25,7 @@ EyeSeeYou is a creative project that brings a fun element to web interaction. Th
 
 ## Demo
 
-Check out the live demo of EyeSeeYou [here](https://your-demo-link.com).
+Check out the live demo of EyeSeeYou [here](https://sudhanshusr007.github.io/EyeSeeYou/).
 
 ## Getting Started
 
